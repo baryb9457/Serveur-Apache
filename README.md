@@ -1,7 +1,5 @@
 # Serveur Apache — Hébergement Web Linux
 
-Configuration et mise en place d'un serveur web **Apache** sur environnement Linux.
-
 ![Capture du site Apache](https://github.com/user-attachments/assets/aa3a583f-9c4a-44b2-9aa7-73ed8287f702)
 
 ## Description
@@ -26,5 +24,3 @@ Ce projet documente l'installation et la configuration d'Apache HTTP Server sur 
 
 Administration système Linux, configuration réseau, hébergement web, sécurité serveur.
 
-
-<img width="1920" height="1080" alt="site apache" src="https://github.com/user-attachments/assets/aa3a583f-9c4a-44b2-9aa7-73ed8287f702" />
